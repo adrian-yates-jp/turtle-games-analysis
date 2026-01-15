@@ -31,8 +31,10 @@ To address these questions, the project applied a combination of descriptive ana
 The findings point to clear strategic priorities: protecting and growing the highest-value customers, activating under-engaged affluent customers through more targeted propositions, sustaining core customers through consistent loyalty programmes, and managing lower-value segments in a cost-effective way. Review analysis highlights opportunities to reduce dissatisfaction by improving clarity, usability, and quality, while reinforcing positive emotional themes in marketing and communications.
 
 ## Files included
- • Jupyter Notebook (.ipynb) – Data preparation, analysis, modelling, and visualisations
- • R script (.R) – Supporting statistical analysis
- • Datasets – Sample versions provided where full files are large
- • Presentation (PDF) – Summary of findings and recommendations
- • README.md – Project overview (this file)
+- Jupyter Notebook (.ipynb) – Data preparation, analysis, modelling, and visualisations
+- R script (.R) – Supporting statistical analysis
+- Dataset – Sample versions provided where full files are large
+- Metadata - Definitions of key terms
+- Presentation (PDF) – Summary of findings and recommendations
+- Technical report - A description of the analytical process followed and results obtained
+- README.md – Project overview (this file)
