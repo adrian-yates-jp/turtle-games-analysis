@@ -1,0 +1,38 @@
+LSE_DA301_Assignment
+
+file name: metadata_turtle_games.txt – metadata of turtle_reviews.csv
+
+***********************************************************************************************
+
+turtle_reviews.csv 
+
+Column            Sample value                 Interpretation of columns
+gender            male or female               The gender of the customer.
+age               number                       Age of the customer in years.
+remuneration      number                       Total income per customer per year
+   (k£)                                           in pounds, where k=1000.                           
+spending_score    number                       A score is assigned to the customer by Turtle 
+  (1-100)                                         Games based on the customer’s spending nature
+                                                  and behaviour. The value ranges between 1 and
+                                                  100.
+loyalty_points    number                       A score based on the point value of the purchase,
+                                                  converting the monetary value to point value,
+                                                  and the point value of an action (purchase).
+education         graduate                     Level of qualification that the customer obtained.
+                                                  For example:
+                                                    Diploma: completed school
+                                                    Graduate: undergraduate degree
+                                                    Postgraduate: postgraduate degree
+                                                    PhD degree.
+language          EN                           All the reviews were in English.
+platform          Web                          All the reviews were obtained from the website
+                                                  of Turtle Games.
+product           number                       Unique code allocated to product based on the
+                                                  item description.
+review            When it comes to             Online reviews submitted by customers who
+                    a DM’s screen, ...            purchased and used the products.
+summary           The fact that 50% of         Summary of the customer’s review 
+                    this ...                   
+
+***********************************************************************************************
+
